@@ -1,0 +1,32 @@
+{
+  "peliculas": [
+    {
+      "title": "Avengers Infinite War",
+      "sinopsis": "Los superhéroes se alían para vencer al poderoso Thanos, el peor enemigo al que se han enfrentado...",
+      "lanzamiento": "2019",
+      "valoracion": "8.5",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "title": "Capitana Marvel",
+      "sinopsis": "Una guerrera extraterrestre de la civilización Kree se encuentra atrapada en medio de una batalla...",
+      "lanzamiento": "2019",
+      "valoracion": "6.4"
+    },
+    {
+      "title": "Capitán América Civil War",
+      "sinopsis": "Después de que otro incidente internacional, en el que se ven envueltos los Vengadores, produzca...",
+      "lanzamiento": "2018",
+      "valoracion": "7.8",
+      "id": 3
+    },
+    {
+      "id": "pe0d47a10-8fb3-11e9-88ed-fb7082ea8a22",
+      "title": "lolo",
+      "sinopsis": "lolo",
+      "lanzamiento": "1234",
+      "valoracion": "6"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+.bg-circle{
+    width: 35px;
+    text-align: center;
+    border-radius: 25px;
+}
+
+.card-space{
+    padding: 10px;
+    margin: 10px 0px;
+}
