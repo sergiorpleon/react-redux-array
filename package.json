@@ -14,7 +14,7 @@
     "redux": "^3.7.2",
     "redux-devtools-extension": "^2.13.8",
     "redux-promise": "0.6.0",
-    "snyk": "^1.62.2",
+    "snyk": "^1.996.0",
     "uuid": "^3.3.2"
   },
   "scripts": {
